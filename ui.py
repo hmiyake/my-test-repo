@@ -11,7 +11,7 @@ def main():
   val1 = float(val1)
   val2 = float(val2)  
 
-  val3 = 3
+  val3 = bug
   print calc.calc_wari(val1,val2)
 
 if __name__ == "__main__":
